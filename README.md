@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Vukojica Vujnic
 #### Full-Stack Web & App Developer
-![Full-Stack Web & App Developer](https://cdn.imgbin.com/16/17/15/imgbin-superhero-robot-cartoon-character-robot-F2QQ0ib9aUy2Z46jnt5z86N71.jpg)
+![Full-Stack Web & App Developer](https://media-exp1.licdn.com/dms/image/C5622AQGlz32O0NquHQ/feedshare-shrink_2048_1536/0/1646239549391?e=1649289600&v=beta&t=p73KPvoTc-KGAEWRNWxm-Bvi-yG2be4AabqJZUOstm0)
 
 I was first exposed to the basics of programming at the University of Belgrade, with my first exposure consisting of simple Object-Oriented Programming Concepts for homework.
 
